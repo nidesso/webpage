@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{.Content}}
+<h1>{{.Title}}</h1>
+    {{range .Pages}}
+    <div>
+        <img src="/pictures/team/{{.File.BaseFileName}}.png">    
+        
+        <h2>{{.Title}}</h2>
+        
+        {{.Content}}
+    </div>
+
+
+{{end}}
+{{end}}
