@@ -25,7 +25,7 @@ jobs:
 
       - name: Build
         run: |
-         hugo
+         hugo -D
          mkdir tmp
          
          
@@ -40,7 +40,7 @@ jobs:
          
          mv tmp/* ./
          rm -r tmp 
-         
+
          touch CNAME
          echo "www.nidesso.ch" >> CNAME
          
