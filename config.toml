@@ -10,7 +10,7 @@ theme = 'nidesso'
 [menu]
     [[menu.nav]]
     name = "Home"
-    url = "/"
+    url = "/home"
   
     [[menu.nav]]
     name = "Team"
