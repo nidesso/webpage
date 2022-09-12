@@ -2,3 +2,23 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Nidesso'
 theme = 'nidesso'
+
+[params]
+    footer = "test"
+
+
+[menu]
+    [[menu.nav]]
+    name = "Home"
+    url = "/"
+  
+    [[menu.nav]]
+    name = "Team"
+    url = "/team"
+
+    [[menu.nav]]
+    name = "Projekt"
+    url = "/project"
+
+
+    

@@ -1,14 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html class="h-full">
     {{- partial "head.html" . -}}
-    <body>
+    <body class="
+        h-full grid grid-rows-[auto_1fr_auto] 
+    " >
+
+
+
         {{- partial "header.html" . -}}
 
-        <div id="content">
-            {{- block "main" . }}
-            {{- end }}
-        </div>
-        
+        <article class="
+        ml-3 mr-3 mt-5 mb-5
+        sm:ml-5 sm:mr-5
+        md:ml-20 md:mr-20
+        ">
+            {{- block "main" . }}{{- end }}        
+        </article>
+                   
         {{- partial "footer.html" . -}}
     </body>
 </html>
