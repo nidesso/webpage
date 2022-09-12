@@ -2,4 +2,10 @@
     <div>
         <h1>{{ .Site.Title }}</h1>
     </div>
+
+    {{range .Pages}}
+     {{ if eq .File.BaseFileName "home" }}
+        {{.Content}}
+     {{end}}
+    {{end}}
 {{ end }}
