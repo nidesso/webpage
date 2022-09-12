@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nidesso</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Nidesso</description>
+    <title>Team on Nidesso</title>
+    <link>http://example.org/team/</link>
+    <description>Recent content in Team on Nidesso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2022 13:50:30 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 13:50:30 +0200</lastBuildDate><atom:link href="http://example.org/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manuel Käch</title>
       <link>http://example.org/team/mka/</link>
@@ -16,24 +16,6 @@
       <description>Business Analyst
 Macht das Requirment Engineering sowie die Markanalyse
 manuel.kaech@nidesso.ch</description>
-    </item>
-    
-    <item>
-      <title>Nidesso</title>
-      <link>http://example.org/home/</link>
-      <pubDate>Mon, 12 Sep 2022 13:50:30 +0200</pubDate>
-      
-      <guid>http://example.org/home/</guid>
-      <description>Nidesso ist ein Startup, welches die Herausforderung mangelnder Vertretungslehrer an Schulen versucht zu lösen.</description>
-    </item>
-    
-    <item>
-      <title>Projekt</title>
-      <link>http://example.org/project/</link>
-      <pubDate>Mon, 12 Sep 2022 13:50:30 +0200</pubDate>
-      
-      <guid>http://example.org/project/</guid>
-      <description>Nidesso will eine Plattform bauen, welche Vertretungslehrer näher an die Schulen bringt. Dadurch gibt es weniger ausfälle - die Qualität der Ausbildung steigt.</description>
     </item>
     
     <item>
