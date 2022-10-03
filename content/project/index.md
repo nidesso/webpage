@@ -3,9 +3,11 @@ title: "Projekt"
 date: 2022-09-12T13:50:30+02:00
 ---
 
+
 ## Das Problem
 
 Bei kurzfristigen, nicht planbaren Ausfällen von Lehrpersonen müssen Schulen etliche Anrufe tätigen, um kurzzeitig eine passende Vertretung zu finden. Dies ist jedoch oft nicht möglich, sodass der Unterricht ausfallen muss, zu Lasten der Eltern und der Bildung der Kinder.
+
 
 ## Die Lösung
 
